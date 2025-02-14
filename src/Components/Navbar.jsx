@@ -4,13 +4,13 @@ const Navbar = () => {
     <>
     <header>
         <nav>
-            <div className="logo-holder">Divy Kumar Jain</div>
+            <div className="logo-holder">Portfolio</div>
             <ul className="Nav-UL"> 
-                <li>Home</li>
-                <li>About</li>
-                <li>Contacts</li>
-                <li>Projects</li>
-                <li>Socials</li>
+                <li className="archivo">Home</li>
+                <li className="archivo">About</li>
+                <li className="archivo">Contacts</li>
+                <li className="archivo">Projects</li>
+                <li className="archivo">Socials</li>
             </ul>
         </nav>
     </header>
