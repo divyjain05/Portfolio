@@ -3,6 +3,7 @@ import Navbar from './Components/Navbar'
 import Animation from  './Components/Animation'
 import Heropage from './Components/Heropage'
 import Social from './Components/Social'
+import { Contact } from './Components/Contact'
 
 function App() {
 
@@ -12,6 +13,7 @@ function App() {
     <Navbar/>
     <Heropage/>
     <Social/>
+    <Contact/>
     </>
   )
 }

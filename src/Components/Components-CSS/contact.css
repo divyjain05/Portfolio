@@ -1,0 +1,11 @@
+.contact{
+    display: flex;
+}
+.contact-left{
+    display: flex;
+    justify-content: left;
+}
+.contact-right{
+    display: flex;
+    justify-content: right;
+}
