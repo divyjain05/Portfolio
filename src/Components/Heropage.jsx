@@ -11,7 +11,7 @@ export default function Heropage() {
                 </p>
             </div>
             <div className='hero-page-right'>
-            <img src="public/IMG_0131.jpeg" className='photo'></img>
+            <img src="public/IMG_0131.jpeg" className='photo'/>
 
             </div>
         </div>
