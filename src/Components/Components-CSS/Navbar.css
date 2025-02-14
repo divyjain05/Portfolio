@@ -1,0 +1,17 @@
+.Nav-UL{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+header{
+    box-shadow: 0px 0px 4px 1px;
+    border-radius: 4px;
+    padding: 30px;
+    margin-bottom: 40px;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
