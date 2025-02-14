@@ -1,0 +1,31 @@
+.Social{
+    margin-top: 150px;
+    background-color: grey;
+    width: auto;
+    height: 300px;
+    background: rgba(255, 255, 255, 0.2); /* Transparent white */
+    backdrop-filter: blur(3px); /* Blur effect */
+}
+.headingS{
+    text-align: center;
+    font-size: 3rem;
+
+}
+
+
+.socialicon{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 100px;
+
+}
+img{
+    
+    width: 70px;
+    height: 70px;
+}
+
+
+
+
