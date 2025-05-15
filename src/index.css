@@ -27,3 +27,12 @@ body {
   background-color: black;
 
 }
+/* to make the poge not scroll towards the sides */
+body { 
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+* {
+  box-sizing: border-box;
+}

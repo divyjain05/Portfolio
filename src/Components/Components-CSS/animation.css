@@ -1,6 +1,6 @@
 
 section{
-    position: absolute;
+    position: absolutegit ;
     top: 0;
     left: 0;
     width: 100%;
@@ -11,6 +11,8 @@ section{
 /*   background-color:black; */
     background-size: cover;
     animation: animateBg 50s linear infinite;
+    position: absolute;
+
 }
 
 @keyframes animateBg{
